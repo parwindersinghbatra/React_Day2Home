@@ -1,0 +1,18 @@
+.navbar{
+    background-color: red;
+}
+.main_div{
+    width:50%;
+    height:100vh;
+    display: flex;
+    /* justify-content: center; */
+} 
+.paragraph_content{
+    font-size: 17px;
+    margin-top:25px;
+}
+.fistDiv{
+    color:red;
+    font-weight: bold;
+    font-size: 19px;
+}
